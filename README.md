@@ -1,2 +1,2 @@
-# dugan-landing
+# landing page
 Photo-landing site
